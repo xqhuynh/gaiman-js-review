@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#header-text {
+  color: red;
+  font-size: 3rem;
+  text-align: center;
+}
